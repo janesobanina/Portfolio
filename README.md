@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="/img/header/main_img.jpg" alt="Logo" width="100" height="100">
+    <img src="/img/header/main_img.png" alt="Logo" width="100" height="100">
     <h3 align="center">Grocery List</h3>
     <p>REACT</p>
 </div>
@@ -16,7 +16,11 @@ Training of class components.
 
 Used in this project:
 
-* [![React][React.js]][React-url]
+HTML
+
+CSS
+
+JavaScript
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -81,7 +85,7 @@ Don't forget to give the project a star! Thanks again!
 
 [E-mail: sobanina.jane@gmail.com](mailto:sobanina.jane@gmail.com)
 
-Project Link: [https://github.com/janesobanina/grocery-list](https://github.com/janesobanina/grocery-list/)
+Project Link: [https://github.com/janesobanina/Portfolio](https://github.com/janesobanina/Portfolio/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
